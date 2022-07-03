@@ -27,4 +27,12 @@
 ![car](2022_FORD_E-TRANSIT_CUSTOM_00.jpg)
 
 
+## Создаем таблицу
+
+|Fun                 |With                 |Tables          |
+|:-------------------|--------------------:|:--------------:|
+|left-aligned column |right-aligned column |centered column |
+|$100                |$100                 |$100            |
+|$10                 |$10                  |$10             |
+|$1                  |$1                   |$1              |
 
